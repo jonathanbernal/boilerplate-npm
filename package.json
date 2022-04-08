@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Jonathan Bernal",
+	"description" : "This package simply illustrates how to use the most basic npm commands and features.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
